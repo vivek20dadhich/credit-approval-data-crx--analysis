@@ -1,7 +1,8 @@
 # credit-approval-data-crx-analysis
 source - https://archive.ics.uci.edu/ml/datasets/Credit+Approval
 
-The above notebook has my solutions for following tasks on crx data:
+The above jupyter notebook contains my solutions for the following tasks on crx data:
+
 Tasks:
 1. In the dataset crx.data, name the columns as col1, col2..col16
 2. Print the last 10 rows of data
