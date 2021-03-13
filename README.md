@@ -1,5 +1,5 @@
 # credit-approval-data-crx-analysis
-source - https://archive.ics.uci.edu/ml/datasets/Credit+Approval
+Data source - https://archive.ics.uci.edu/ml/datasets/Credit+Approval
 
 The above jupyter notebook contains my solutions for the following tasks on crx data:
 
